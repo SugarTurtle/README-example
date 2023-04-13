@@ -9,4 +9,4 @@ Body
 Code block
 ```
 
-[Link name](actual link)
+[Link](https://wouldbelink.com)
