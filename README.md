@@ -13,6 +13,6 @@ Code block
 
 [Link](https://wouldbelink.com)
 
-[Other Link][reference]
+[Other_Link][reference]
 
-[reference]: "https://wouldbelink.com"
+[reference]: https://github.com/SugarTurtle/README-example/edit/main/README.md 
