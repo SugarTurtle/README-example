@@ -1,4 +1,4 @@
-<!-- Comment maybe? -->
+<!-- Hidden comment -->
 
 # Title
 ## Heading
@@ -12,3 +12,8 @@ Code block
 ```
 
 [Link](https://wouldbelink.com)
+
+[something]
+[!Something]
+[![Something1][Something2]]
+[![Something1][Something2]][Something3]
