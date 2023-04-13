@@ -13,7 +13,6 @@ Code block
 
 [Link](https://wouldbelink.com)
 
-[something]
-[!Something]
-[![Something1][Something2]]
-[![Something1][Something2]][Something3]
+[Other Link][reference]
+
+[reference]: "https://wouldbelink.com"
