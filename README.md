@@ -15,4 +15,9 @@ Code block
 
 [Other_Link][reference]
 
-[reference]: https://github.com/SugarTurtle/README-example/edit/main/README.md 
+[reference]: https://wouldbelink.com
+
+[![Image_Link][Image_ref]][1]
+
+[Image_ref]: https://wouldbelink.com/
+[1]: https://wouldbelink.com/
